@@ -130,8 +130,8 @@ body {
 .hero .content p {
   font-size: 1.6rem;
   margin-top: 1rem;
-  line-heigth: 1.4;
-  font-weigth: 100;
+  line-height: 1.4;
+  font-weight: 100;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
   mix-blend-mode: difference;
 }
@@ -187,7 +187,7 @@ body {
 
 .about .row .content h3 {
   font-size: 1.8rem;
-  padding-battom: 1rem;
+  padding-bottom: 1rem;
 }
 
 .about .row .content p {
